@@ -18,8 +18,8 @@ This project was created during a hackathon by Hemank and Neeraj. It leverages m
 
 # Installation
 
-• Clone the repository: git clone https://github.com/Neeraj704/Forest_Fire_Prediction_Model.git
+• Clone the repository: ```git clone https://github.com/Neeraj704/Forest_Fire_Prediction_Model.git```
 
-• Install required libraries: Make sure all dependencies in req.txt are installed: pip install -r req.txt
+• Install required libraries: Make sure all dependencies in req.txt are installed: ```pip install -r req.txt```
 
 • Run the project: Right-click on main.py and select Run with Python.
